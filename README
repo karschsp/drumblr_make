@@ -1,0 +1,14 @@
+Drumblr is a Drupal installation profile that creates a Tumblr-like Drupal
+site.  The installation profile includes a drush make file (drumblr.make) for
+quickly downloading the required modules and themes.  The real functionality
+comes from the drumblr_settings module which is a feature that creates the
+content types and sets the necessary variables.
+
+Content types:
+
+* Page (blog post)
+* Photo
+* Video
+* Quote
+
+
